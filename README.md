@@ -1,5 +1,5 @@
 # HR-Analytics-Dashboard
-I have created an interactive HR Analytics Dashboard as a part of my first Power BI project,
+
 Hello connections, I am pleased to share that I completed my first project using PowerBi in which I have created an interactive HR Analytics Dashboard. I have picked the dataset from YouTube channel of “Rishabh Mishra”.
 
 Objective:  To gain insights into the attrition patterns within the organization and helping the organization to gain a deeper understanding of employee turnover and its underlying causes by visualizing attrition data and trends.
