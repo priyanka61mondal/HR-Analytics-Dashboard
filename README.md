@@ -13,9 +13,9 @@ Process:
 4. Finally created different types of visualizations such as donut chart, stacked bar chart, stacked column chart, treemap, matrix, area chart to get meaningful insights.
 
 Insights:
-Ø Total employee count is 1470 among which 237 workers are leaving the organization out of which 133 of them are from Research & development department.
-Ø Average age of employees is 37, whereas the highest number of employees leaving the company are between the age group of 25-35.
-Ø Education wise attrition indicated that highest number of people leaving the organization are from Life Science(38%) background, followed by Medical and Marketing.
-Ø In attrition by gender we see that more number of Males(140) left the organization than females(79).
+1. Total employee count is 1470 among which 237 workers are leaving the organization out of which 133 of them are from Research & development department.
+2. Average age of employees is 37, whereas the highest number of employees leaving the company are between the age group of 25-35.
+3. Education wise attrition indicated that highest number of people leaving the organization are from Life Science(38%) background, followed by Medical and Marketing.
+4. In attrition by gender we see that more number of Males(140) left the organization than females(79).
 
 #dataanalyst #powerbi #data #datavisualization #project #job #powerquery #dashboard #datacleaning #immidiatejoiner #opportunity #opentowork
